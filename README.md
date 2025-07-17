@@ -1,16 +1,13 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Abhaya Shrestha</h1>
-<h3 align="center">A passionate Flutter Developer | Aspiring Data Scientist | C++ Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist | AI/ML Enthusiast | Flutter Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/abhayashrestha">
-    <img src="https://komarev.com/ghpvc/?username=abhayashrestha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://linkedin.com/in/abhaya-shresthaa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
   </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/email-red?logo=gmail&style=flat-square" />
+  <a href="mailto:080bct006.abhaya@pcampus.edu.np">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=flat-square&logoColor=white" />
   </a>
 </p>
 
@@ -18,28 +15,37 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I’m currently studying Computer Engineering at IOE, Nepal  
-- 🌱 I’m learning **Flutter**, **Data Science**, and **Backend Development with Node.js**
-- 🚀 I’m working on personal projects in **C++**, **SFML**, and **LSTM models for stock prediction**
-- ✨ I love solving real-world problems with code
-- 💬 Ask me about Flutter, Python, or beginner C++
-- ⚡ Fun fact: I can explain complex concepts in simple Nepali!
+- 🎓 Currently pursuing a Bachelor's degree in **Computer Engineering** at IOE, Nepal  
+- 📱 Experienced in **Flutter app development** — built multiple cross-platform apps, using **Firebase** as the backend  
+- 🤖 Actively exploring **Data Science**, **Artificial Intelligence**, and **Machine Learning** with practical projects  
+- 📊 Worked on hands-on projects like **stock price prediction using LSTM** and **data visualization with Python**
+- 💻 Strong foundation in **Python**, **C/C++**, and **Flutter**, with growing experience in ML frameworks like **TensorFlow**
+- 🔍 Enjoys solving real-world problems through a mix of app development and data-driven solutions
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### Languages:
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 #### Frameworks & Tools:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![SFML](https://img.shields.io/badge/SFML-007ACC?style=flat&logo=sfml&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+#### Data Science & ML:
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ---
 
@@ -56,31 +62,22 @@
 
 ---
 
-### 🖼️ Projects Preview
-
-<p align="center">
-  <img src="https://github.com/abhayashrestha/your-project-name/blob/main/assets/preview.gif" width="600px" />
-</p>
-
----
-
 ### 📫 How to reach me:
 
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)
+- LinkedIn: [linkedin.com/in/abhaya-shresthaa](https://linkedin.com/in/abhaya-shresthaa)
+- Email: [080bct006.abhaya@pcampus.edu.np](mailto:080bct006.abhaya@pcampus.edu.np)
 
 ---
 
-### 🎯 Fun Stats (Optional)
+### 🎯 Fun Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Flutter+Developer;C%2B%2B+and+SFML+Projects;Aspiring+Data+Scientist+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Data+Science+Explorer;Machine+Learning+Practitioner;Flutter+Developer;Turning+Data+into+Decisions" />
 </p>
 
 ---
 
-### 🧠 Let's Learn Together
+### 🧠 Let’s Learn Together
 
 > _“The best way to predict the future is to invent it.”_ — Alan Kay  
-> Learning Flutter, Data Science, and C++ one day at a time 🚀
+> On a mission to master **Data Science**, **AI/ML**, and **Flutter** — one step at a time 🚀
