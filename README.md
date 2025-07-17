@@ -53,10 +53,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhaya-Shresthaa&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Abhaya-Shresthaa&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaya-Shresthaa&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
