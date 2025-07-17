@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently pursuing a Bachelor's degree in **Computer Engineering** at IOE, Nepal  
+- 🎓 Currently pursuing a Bachelor's degree in **Computer Engineering** at IOE, Pulchowk Engineering Campus, Nepal  
 - 📱 Experienced in **Flutter app development** — built multiple cross-platform apps, using **Firebase** as the backend  
 - 🤖 Actively exploring **Data Science**, **Artificial Intelligence**, and **Machine Learning** with practical projects  
 - 📊 Worked on hands-on projects like **stock price prediction using LSTM** and **data visualization with Python**
