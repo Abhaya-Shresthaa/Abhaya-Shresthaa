@@ -1,11 +1,13 @@
-<!-- Profile Header -->
+<p align="center">
+  <img src="https://media.tenor.com/-9Yx04i8-4EAAAAM/gamechanger-ram-charan.gif" width="100%" />
+</p><!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Abhaya Shrestha</h1>
 <h3 align="center">Aspiring Data Scientist | AI/ML Enthusiast | Flutter Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/abhaya-shresthaa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
-  </a>
+  </a> 
   <a href="mailto:080bct006.abhaya@pcampus.edu.np">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=flat-square&logoColor=white" />
   </a>
