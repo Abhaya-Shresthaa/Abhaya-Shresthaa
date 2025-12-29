@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.tenor.com/-9Yx04i8-4EAAAAM/gamechanger-ram-charan.gif" width="100%" />
-</p><!-- Profile Header -->
+<!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Abhaya Shrestha</h1>
 <h3 align="center">Aspiring Data Scientist | AI/ML Enthusiast | Flutter Developer</h3>
 
